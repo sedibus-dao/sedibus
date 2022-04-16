@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "brownie_fund_me",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.formatting.provider": "black"
+	}
+}
